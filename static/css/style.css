@@ -891,7 +891,7 @@ h4.side-t-w3l-agile {
     -moz-transition: all .5s ease;
     -o-transition: all .5s ease;
     transition: all .5s ease;
-}
+}/*
 .w3_agileits_services_grid_agile h3:after {
     content: '';
     position: absolute;
@@ -901,7 +901,7 @@ h4.side-t-w3l-agile {
 	-ms-transition: all .5s ease;
     transition: all .5s ease;
     width: 20%;
-    height:3px;
+    height:0px;
     background: #212121;
     left: 40%;
     bottom: 0;
@@ -909,7 +909,7 @@ h4.side-t-w3l-agile {
 .w3_agileits_services_grid:hover .w3_agileits_services_grid_agile h3:after {
     background:#ff401b;
     width: 60%;
-}
+}*/
 .w3_agileits_services_grid_agile p{
 	    color: #555;
 	line-height:2em;
@@ -955,7 +955,7 @@ h4.side-t-w3l-agile {
   left: 50%;
   right: 50%;
   top: 0;
-  background:#ff401b;
+  background:#009900;
   height: 4px;
   -webkit-transition-property: left, right;
   transition-property: left, right;
@@ -986,7 +986,7 @@ h4.side-t-w3l-agile {
   left: 100%;
   right: 0;
   top: 0;
-  background: #2098D1;
+  background: #009900;
   height: 4px;
   -webkit-transition-property: left;
   transition-property: left;

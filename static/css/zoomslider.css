@@ -60,6 +60,7 @@
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height: 200px!important;
+
 }
 .banner-inner-dott {
     background: url(../images/dots.png)repeat 0px 0px;
